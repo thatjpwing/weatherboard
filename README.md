@@ -1,5 +1,7 @@
 # NOAA / NWS Terminal Weather Dashboard (`weatherboard`)
 
+<img width="1183" height="803" alt="weatherboard" src="https://github.com/user-attachments/assets/cf64c04b-a287-46f9-9cae-ad5aee901297" />
+
 A real-time, interactive terminal weather dashboard powered by official **NOAA / National Weather Service (NWS)** and **Aviation Weather Center** APIs. Built with Python and `rich`, it displays live local observations, extended forecasts, active severe weather alerts, and one-key browser shortcuts for radar and Storm Prediction Center (SPC) resources.
 
 ## Features
